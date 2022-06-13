@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Cloned/SampleScene 1.unity
+    guid: 3bb32580093123d43bfd4ffdec9775c6
+  - enabled: 1
+    path: Assets/Scenes/Cloned/SampleScene 2.unity
+    guid: a4bd8fa690a68b94691622d5c2edc705
+  - enabled: 1
+    path: Assets/Scenes/Cloned/SampleScene 3.unity
+    guid: e0600d861c6d9c74b986aa1648d16750
+  - enabled: 1
+    path: Assets/Scenes/Cloned/SampleScene 4.unity
+    guid: f68c3cf3cdfa06c4e9c6b06133b5cf03
   m_configObjects: {}
